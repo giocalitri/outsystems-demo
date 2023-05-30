@@ -16,7 +16,15 @@ const Tab1: React.FC = () => {
             <IonTitle size="large">Tab 1</IonTitle>
           </IonToolbar>
         </IonHeader>
-        <ExploreContainer name="Tab 1 page" />
+        <IonContent>
+          <p>This is a demo for the OutSystems User Group.</p>
+          <p>You can add more content here!</p>
+          <ul>
+            <li>Item 1</li>
+            <li>Item 2</li>
+            <li>Item 3</li>
+          </ul>
+        </IonContent>
       </IonContent>
     </IonPage>
   );
