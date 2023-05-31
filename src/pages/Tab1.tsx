@@ -20,7 +20,7 @@ const Tab1: React.FC = () => {
           <p>This is a demo for the OutSystems User Group.</p>
           <p>You can add more content here!</p>
           <ul>
-            <li>Item 1</li>
+            <li>🚀</li>
             <li>Item 2</li>
             <li>Item 3</li>
           </ul>
