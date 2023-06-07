@@ -21,7 +21,7 @@ const Tab1: React.FC = () => {
           <p>You can add more content here!</p>
           <ul>
             <li>🚀</li>
-            <li>Item 2</li>
+            <li>🙂</li>
             <li>Item 3</li>
           </ul>
         </IonContent>
